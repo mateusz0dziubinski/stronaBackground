@@ -1,0 +1,65 @@
+h1{
+    width: 1500px;
+    height: 600px;
+    text-align: center; 
+}
+
+#obrazek{
+    background-image: url(images/web-1935737__340.png);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+h2{
+    text-align: center; 
+}
+
+p{
+    text-align: center; 
+}
+
+#obrazek1, #obrazek2, #obrazek3{
+    width: 500px;
+    height: 200px;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#obrazek1{
+    background-image: url(images/website-4396924__340.jpg);
+}
+
+#obrazek2{
+    background-image: url(images/dual-screen-1745705__340.png);
+}
+
+#obrazek3{
+    background-image: url(images/build-3965373__340.jpg);
+}
+
+#container{
+    text-align: center;
+}
+
+#idFormularza{
+    background-color: rgb(127, 157, 255);
+    border: none;
+    color: white;
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#button{
+    background-color: rgb(47, 0, 255);
+    border: none;
+    color: white;
+    padding: 15px 115px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
